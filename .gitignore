@@ -1,0 +1,10 @@
+build/
+.vs/
+.vscode/
+out/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.exe
+goal/
